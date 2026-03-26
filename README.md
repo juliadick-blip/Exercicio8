@@ -1,3 +1,3 @@
-# Programa Cálculo Área do Triângulo
-Programa que calcula a área de um triângulo.
-Desenvolvido utilizado JDK 1.8 e NetBeans 13
+# Programa Cálculo de Soma Simples
+Programa que calcula uma soma simples de dois números.
+Desenvolvido utilizado JDK 25 e NetBeans 29.
